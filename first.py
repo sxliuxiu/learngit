@@ -2,8 +2,9 @@
 #I think i can
 #So believe youself
 #trust
-#zheshi zai dev1shang 
-#liangge fenzhi master
+<<<<<<< HEAD
+
+>>>>>>> dev
 import scrapy
 from scrapy import Spider
 from Final.items import FinalItem
