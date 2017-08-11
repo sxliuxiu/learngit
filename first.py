@@ -2,6 +2,7 @@
 #I think i can
 #So believe youself
 #trust
+#the other
 import scrapy
 from scrapy import Spider
 from Final.items import FinalItem
